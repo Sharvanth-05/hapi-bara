@@ -1,8 +1,8 @@
-// import Home from "@/components/cart/Home";
 
-// export default function Page()
-// {
-//     return(
-//         <Home />
-//     );
-// }
+
+export default function Page()
+{
+    return(
+        <h1>Cart</h1>
+    );
+}
